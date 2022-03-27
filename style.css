@@ -1,0 +1,12 @@
+canvas
+{
+    border: 7px ridge lightgrey;
+    border-radius: 20px;
+}
+
+h3
+{
+    font-size: 25px !important;
+    width: 95%;
+    padding: 5px;
+}
